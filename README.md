@@ -1,4 +1,4 @@
-# OpenAI.fm
+https://github.com/openai/openai-fm.git# OpenAI.fm
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 ![NextJS](https://img.shields.io/badge/Built_with-NextJS-blue)
